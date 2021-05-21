@@ -1,6 +1,5 @@
 # 2 Rabbits and a fox
 ![rabbithole](files/rabbithole.jpeg)
-Format: ![Alt Text](url)
 
 ## it goes like this
 
