@@ -9,3 +9,7 @@
 > The meeting went on for ever with foxes sneaking up the rabbit hole. 
 > Tensions was rising and instead of worrying about the sly foxes creeping in, most of them got furious at each other. 
 > The rabbit with the red had threw a carrot at the white-socked rabbit. 
+
+>When the tension notch down, they decided to hire a group of well-trained armadillos to defend their hole.
+>The task wouldn't be easy, since armadillos lived far away, in the hot dessert near El Paso.
+>But first they had to distract the fox outside the door so one of them could sneak out and look for the help.
