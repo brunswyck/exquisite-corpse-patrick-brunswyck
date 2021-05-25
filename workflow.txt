@@ -1,0 +1,19 @@
+# example of workflow
+
+cd Exquisite-corpse-Anne-Jungers/
+
+git pull
+git checkout development	
+git checkout -b dev-patrick-brunswyck development
+vim README.md
+git commit -am 'said my piece'
+git push --set-upstream origin dev-patrick-brunswyck
+git checkout development
+git pull
+git merge development dev-patrick-brunswyck
+	if conflict: git commit -am 'said my piece'
+		     git push
+git branch -av
+git branch -d dev-patrick-brunswyck
+# delete remote branch explicitely:
+git push origin --delete dev-patrick-brunswyck
