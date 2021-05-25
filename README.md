@@ -10,10 +10,10 @@
 > Tensions was rising and instead of worrying about the sly foxes creeping in, most of them got furious at each other. 
 > The rabbit with the red had threw a carrot at the white-socked rabbit. 
 
->When the tension notch down, they decided to hire a group of well-trained armadillos to defend their hole.
->The task wouldn't be easy, since armadillos lived far away, in the hot dessert near El Paso.
->But first they had to distract the fox outside the door so one of them could sneak out and look for the help.
+> When the tension was a notch down, they decided to hire a group of well-trained armadillos to defend their hole.
+> The task wouldn't be easy, since the armadillos live far away, in the hot dessert near El Paso.
+> But first they would have to distract the fox outside the door so one of them could sneak out and look for the help.
 
->The white-socked rabbit threw a carrot far from their hole. so, sly foxes will be distract from their hole.
->When foxes see a carrot comming from the hole and they are going to chatch it. so, they run after a carrot.
->When foxes distract outside the door then one of them sneak out and look for someone for help.
+> The white-socked rabbit threw a carrot far from their hole. So, sly foxes will be distract from their hole.
+> When the foxes see a carrot coming from the hole and they surely would try to catch it. So, they run after a carrot.
+> When the foxes are distract outside then one of the rabbits can sneak out and look for someone to help.
