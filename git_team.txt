@@ -1,0 +1,16 @@
+
+
+gh api --method=PUT https://api.github.com/repos/brunswyck/exquisite-corpse-patrick-brunswyck/collaborators/Mi
+
+"annejungers"
+84380205
+"brunswyck"
+5129017
+"JacquesDeclercq"
+41050093
+"JayeshItaliya86"
+58531559
+"matthew-samyn"
+84380381
+"lvendrix"
+74897663
