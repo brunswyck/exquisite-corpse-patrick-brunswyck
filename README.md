@@ -13,3 +13,7 @@
 >When the tension notch down, they decided to hire a group of well-trained armadillos to defend their hole.
 >The task wouldn't be easy, since armadillos lived far away, in the hot dessert near El Paso.
 >But first they had to distract the fox outside the door so one of them could sneak out and look for the help.
+
+That's when Lola Bunny came in to play. Fresh from the Space Jam 2 set she flew in to help her 'Not Warnes Bros Insured" furry friends.
+Little did she know that her insurance policies didn't cover distracting foxes outside a door so they can sneak out and look for help.
+Actually this misdemeanor means a 3 to 10 year jail sentence. So they had to find another way.
